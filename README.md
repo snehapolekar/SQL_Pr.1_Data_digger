@@ -68,3 +68,14 @@ Stores order-detail IDs, the products included in orders, quantities, and subtot
 
 ## ✅ Conclusion
 Data Digger provides a beginner-friendly example of relational database management with MySQL. It demonstrates how multiple related tables can be organized and how SQL queries can be used to manage data and extract useful information.
+
+
+## 👩 Connect with me :
+
+
+Linkedin id : www.linkedin.com/in/sneha-polekar-1a8022415
+
+Gmail id : snehapolekar26@gmail.com
+
+
+
